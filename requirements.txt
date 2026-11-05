@@ -1,0 +1,12 @@
+# Notebooks run on Databricks (serverless). dbutils and spark are provided by the Databricks runtime.
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+databricks-langchain
+sentence-transformers
+faiss-cpu
+pypdf
+mlflow
+pandas
+gradio
